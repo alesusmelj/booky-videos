@@ -1,6 +1,6 @@
 # Booky — Videos
 
-**Booky: plataforma social para descubrir, intercambiar y compartir libros entre lectores**
+**Booky: Plataforma social para lectores que facilita el acceso a libros físicos mediante el intercambio entre personas y fomenta la lectura a través de comunidades, espacios de interacción y lecturas inmersivas.**
 
 Proyecto Final de Ingeniería – UADE – 2026
 
