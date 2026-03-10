@@ -51,11 +51,3 @@ En este video se exploran algunas de las funcionalidades más innovadoras de la 
 
 **Video**: [`Booky parte 3 - Clubes de lectura, Realidad virtual, Mapa de lectores y Gamificación.mp4`](./Booky%20parte%203%20-%20Clubes%20de%20lectura%2C%20Realidad%20virtual%2C%20Mapa%20de%20lectores%20y%20Gamificaci%C3%B3n.mp4)  
 **YouTube**: [Ver en YouTube](https://www.youtube.com/watch?v=ydNnuNZa15o)
-
----
-
-## Repositorio
-
-Repositorio oficial de los videos de demostración del proyecto Booky:
-
-https://github.com/alesusmelj/booky-videos
