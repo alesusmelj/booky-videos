@@ -6,6 +6,8 @@ Proyecto Final de Ingeniería – UADE – 2026
 
 Autores: Costa Felipe y Susmelj Alejandro
 
+<img width="163" height="174" alt="LogoBooky" src="https://github.com/user-attachments/assets/d0d8aac9-188a-4992-a8a5-ec406dfb1615" />
+
 ---
 
 Bienvenido al repositorio de **Videos de Booky**, que contiene una serie de demostraciones de las funcionalidades de la aplicación.
